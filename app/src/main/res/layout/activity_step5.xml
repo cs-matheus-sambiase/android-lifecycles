@@ -35,7 +35,7 @@
 
     <fragment
         android:id="@+id/fragment2"
-        android:name="com.example.android.lifecycles.step5.Fragment_step5"
+        android:name="com.example.android.lifecycles.step5.Fragment2_step5"
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1" />
